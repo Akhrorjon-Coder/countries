@@ -1,0 +1,85 @@
+@media (min-width: 375px){
+    .container{
+        width: 100%;
+        padding: 8px 10px;
+    }
+    .container:nth-child(2){
+        height: 60px;
+        margin-top: 10px;
+    }
+    .container h1{
+        font-size: 16px;
+        padding: 5px 5px !important;
+    }
+    .toggle{
+        font-size: 14px;
+    }
+    .form-control{
+        
+        width: 200px;
+    }
+    .form-control input{
+        width: 100%;
+        padding: 14px 10px;
+        font-size: 13px;
+    }
+    .form-control i{
+        top: 1.1rem;
+        font-size: 12px;
+    }
+    .dropDownCon{
+        width: 100px;
+    }
+    .dropDown{
+        padding: 14px 5px;
+        font-size: 10px;
+    }
+    .country{
+        min-height: 280px;
+    }
+    .country-img{
+        height: 150px;
+    }
+    .country-info{
+        padding: 8px 10px;
+    }
+    .country-info h5{
+        padding: 8px 0px;
+        font-size: 18px;
+    }
+    .country-info p{
+        letter-spacing: 1px;
+        padding: 3px 0px;
+    }
+    .countryModal{
+        padding: 30px 20px;
+    }
+    .modal{
+        display: block;
+        justify-content: center;
+    }
+    .back{
+        top: 2rem;
+        left: 20px;
+        padding: 8px 13px;
+        font-size: 12px;
+    }
+    .leftModal{
+        margin-top: 150px;
+        width: 100%;
+        display: block;
+    }
+    .rightModal{
+        width: 100%;
+        margin-left: 5px;
+    }
+    .rightModal h1{
+        font-size: 25px;
+    }
+    .inner p{
+        font-size: 12px;
+    }
+    .inner p>strong{
+        font-weight: 550;
+    }
+}
